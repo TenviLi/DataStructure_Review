@@ -1,5 +1,9 @@
 # 数据结构考前终极复习
 
+感谢🙇‍各路大佬的数据结构干货！
+如有侵权，请告知我来删除。🎈
+欢迎pull request对内容进行补充！🎉（虽然我都不指望会有人看...)
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
